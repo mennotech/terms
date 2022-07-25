@@ -1,6 +1,6 @@
-# Terms and Conditions
+# Mennotech Terms and Conditions
 
-Last updated: July 24, 2022
+Last updated: July 25, 2022
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -152,22 +152,6 @@ Certain refund requests for Subscriptions may be considered by the Company on a 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Links to Other Websites
 
 Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
@@ -201,7 +185,7 @@ Some jurisdictions do not allow the exclusion of certain types of warranties or 
 
 # Governing Law
 
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, province, national, or international laws.
 
 # Disputes Resolution
 
