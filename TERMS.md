@@ -29,7 +29,7 @@ For the purposes of these Terms and Conditions:
 - __Orders__ mean a request by You to purchase Goods from Us.
 
 
-- __Service__ refers to our website (https://mennotech.ca) and all services rendered to our clients, including but not limited to planning, implementing, maintaining, securing, configuring, and supporting any information technology systems and services.
+- __Service__ refers to our website (https://mennotech.ca) and all services rendered to our clients, including but not limited to consulting, planning, implementing, maintaining, securing, configuring, and supporting any computers, servers, network equipment or any other information technology systems and services.
 
 - __Subscriptions__ refer to the services or access to the Service offered on a subscription basis by the Company to You.
 - __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. 
