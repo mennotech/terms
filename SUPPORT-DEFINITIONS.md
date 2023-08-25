@@ -10,7 +10,7 @@ Updated: 2023-08-25
 - Mac OS X 
 
 ## Endpoint Management Software
-- Xcitium (formerly Comodo) Endpoint Manager Communication Client
+- Xcitium Endpoint Manager Communication Client
 - TeamViewer
 
 ## Endpoint Protection Software
