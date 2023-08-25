@@ -13,7 +13,9 @@ Updated: 2023-08-25
 - Xcitium (formerly Comodo) Endpoint Manager Communication Client
 - TeamViewer
 
-## Endpoint Protection Software includes the latest release of the following software Xcitium (formerly Comodo) Advanced Endpoint Protection
+## Endpoint Protection Software
+- Xcitium Advanced Endpoint Protection
+- Xcitium EDR
 
 ## Supported Cloud Services
 - Microsoft Azure Active Directory
