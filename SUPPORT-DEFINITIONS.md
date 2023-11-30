@@ -6,7 +6,11 @@ Updated: 2023-08-25
 
 ## Supported Client Operating Systems
 - Microsoft Windows 10 Pro
+- Microsoft Windows 10 Education
+- Microsoft Windows 10 Enterprise
 - Microsoft Windows 11 Pro
+- Microsoft Windows 11 Education
+- Microsoft Windows 11 Enterprise
 - Mac OS X 
 
 ## Endpoint Management Software
@@ -56,6 +60,7 @@ Updated: 2023-08-25
 ## Supported Printers
 - HP
 - Dell
+- Brother
 
 ## Supported Scanners
 - Fujitsu
