@@ -98,8 +98,11 @@ Our Microsoft Certified Professionals plan, configure, and manage your Server In
 - **Mennotech** will document and track Information Technology assets 
 - **Mennotech** Support Technicians will attempt to resolve any server and network issue remotely, if they are unable to resolve the issue remotely, an on-site visit will be scheduled 
 - **Mennotech** will set up and configure network health monitor and alerting 
-- The **Client** will allow **Mennotech** to install and manage a Virtual Machine on a designated server or workstation for the purpose of network health monitoring and alerting 
-- The **Client** will purchase and license all software and services that are configured on the server(s) and for any network equipment, except what Mennotech has agreed in writing to purchase and provide 
+- The **Client** will allow **Mennotech** to install and manage a Virtual Machine on a designated server or workstation for the purpose of network health monitoring and alerting
+
+## Third-Party Software and Vendors
+
+- The **Client** will purchase and license all software and services that are configured on the server(s) and computers and for any network equipment, except what Mennotech has agreed in writing to purchase and provide 
 - Mennotech will work together with licensed third-party software and hardware vendors to resolve support incidents 
 
 ## Security Awareness Training  
