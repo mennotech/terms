@@ -87,6 +87,7 @@ Our Microsoft Certified Professionals plan, configure, and manage your Server In
 - Install non-critical updates on **Supported Server Operating Systems** within 42 days 
 - Planning, installing, documenting, supporting and maintaining **Support Network Services** 
 - Setting up new users on **Supported Server Operating Systems**  
+- Disable users as requested by **Client** within 4 hours
 - Resolving configurations issues on **Supported Server Operating Systems** 
 - Removing malware from Supported **Server Operating Systems** 
 - Assist in configuring backup software and services for **Supported Server Operating Systems** 
@@ -95,12 +96,11 @@ Our Microsoft Certified Professionals plan, configure, and manage your Server In
   - **Supported Access Points and Firewalls** 
   - **Supported Printers** 
   - **Supported Scanners** 
-- **[[MSP Name]]** will set a unique strong passwords for all installed network devices and store securely in an encrypted password vault
 - **[[MSP Name]]** will document and track Information Technology assets 
 - **[[MSP Name]]** Support Technicians will attempt to resolve any server and network issue remotely, if they are unable to resolve the issue remotely, an on-site visit will be scheduled 
 - **[[MSP Name]]** will set up and configure network health monitor and alerting 
-- **[[MSP Name]]** Review all active user accounts on a monthly basis
-- **[[MSP Name]]** Review all active administrative and service accounts on a semi-annual basis
+- **[[MSP Name]]** will set a unique strong passwords for all installed network devices and store securely in an encrypted password vault
+- **[[MSP Name]]** will review all active administrative and service accounts on a semi-annual basis and disable inactive accounts
 - The **Client** will allow **[[MSP Name]]** to install and manage a Virtual Machine on a designated server or workstation for the purpose of network health monitoring and alerting
 
 ## Third-Party Software and Vendors
