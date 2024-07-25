@@ -115,7 +115,7 @@ Most security incidents start with a phishing email. Make sure your staff are ad
 - **[[MSP Name]]** will purchase and license the KnowBe4 Security Awareness Training platform (platinum level) for every employee of the **Client**
 - **[[MSP Name]]** will report on staff training progress and phishing simulation results to the **Client**
 - The **Client** will give KnowBe4 permission to send Phishing test emails to their employees 
-- The **Client** will enroll and assign KnowBe4 Security Awareness Training modules to their employees at least every two months 
+- The **Client** will enroll and assign KnowBe4 Security Awareness Training modules to their employees at least once each year
 - The **Client** will enroll their employees in weekly or bi-weekly KnowBe4 Security Tips emails  
 
 ## M365 Total Protection Enterprise Backup
