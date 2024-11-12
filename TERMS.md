@@ -1,6 +1,6 @@
 # Mennotech Terms and Conditions
 
-Last updated: July 25, 2022
+Last updated: November 12, 2024
 
 Please read these terms and conditions carefully before using Our Service.
 
