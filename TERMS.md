@@ -94,7 +94,7 @@ You will not have any right to cancel an Order for the supply of any of the foll
 - The supply of Goods which are, after delivery, according to their nature, inseparably mixed with other items.
 - The supply of digital content which is not supplied on a tangible medium if the performance has begun with Your prior express consent and You have acknowledged Your loss of cancellation right.
 
-## Restocking Fee
+### Restocking Fee
 
 We reserve the right to charge a restocking fee between 10% and 25% of the original price, for any items that are returned.
 
