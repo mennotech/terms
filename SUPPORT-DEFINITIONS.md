@@ -64,3 +64,10 @@ Updated: 2023-08-25
 
 ## Supported Scanners
 - Fujitsu
+
+## Supported VOIP Phone Sets
+- Yealink
+
+## Supported SIP Trunk Providers
+- LES.NET
+- VOIP.MS
