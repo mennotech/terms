@@ -53,7 +53,7 @@ When these definitions are updated, all clients with a current support agreement
 
 ## VOIP SIP Trunk
 
-The **Client** will be responsible to purchase a SIP Trunk provider and give **[MSP NAME]** any credentials and configuration parameters needed to connect the VOIP Server to the Public Service Telephone Network. Please see the list of **Supported SIP Trunk Providers**.
+The **Client** will be responsible to purchase a SIP Trunk provider and give **[MSP Name]** any credentials and configuration parameters needed to connect the VOIP Server to the Public Service Telephone Network. Please see the list of **Supported SIP Trunk Providers**.
 
 ## Service Level Agreement 
 
@@ -68,6 +68,21 @@ Note that any tickets that are sent to **support@mennotech.ca** will be marked "
 If the response time fails to meet the above requirements, a discount will be applied at the end of the month in which the failure occurred. The discount will be calculated at $80 for each hour the targeted support commitment is missed. The maximum discount in a given month will not exceed 50% of the total invoice amount for the service.  
 
 Mennotech reserves the right to charge $120 / hour for non-business day support. 
+
+### Uptime Commitment
+
+**[[MSP Name]]** will provide actual availability for at least 99.9% of the total time in each month. Scheduled maintenance of the VOIP Server will be excluded from this Uptime commitment. Maintenance windows will be coordinated with the **Client**. 
+
+### Service Credits
+
+If the Uptime Commitment is not met during any particular billing month during the Subscription Term, then the **Client** will be eligible for a **Service Credit**, provided that **Client** reports to **[[MSP Name]]** such failure to meet the **Uptime Commitment** and requests such **Service Credit**. The amount of any **Service Credit** due will be calculated as follows: X * Y, where X = the total fees due from the **Client** to **[[MSP Name]]** for the affected Services for the relevant calendar month (regardless of when billed or payable), and Y = the Credit Percentage corresponding with the Actual Availability provided (as a percentage of total time) for the relevant calendar month, as set forth in the table below.
+
+| Actual Availability | Credit Percentage |
+| --- | --- |
+| Less than 99.9% but greater than or equal to 99.0% | 10% |
+| Less than 99.0% but greater than or equal to 98.0% | 15% |
+| Less than 98.0% but greater than or equal to 96.0% | 20% |
+| Less than 96.0% | 30% |
 
 ## Terms and Conditions
 
