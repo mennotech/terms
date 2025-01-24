@@ -1,5 +1,3 @@
-(Generate PDF version at https://md2pdf.netlify.app/)
-
 # Memorandum of Understanding
 
 Between
@@ -8,18 +6,15 @@ Between
 > [Street]\
 > [City], [Prov]\
 > [PostalCode]\
-> (here after referred to as **[MSP Name]**)
+> (here after referred to as **[[MSP Name]]**)
 
 And
 
 > **Client**\
-> \
-> \
-> \
-> \
-> \
-> \
->(here after referred to as **Client**)
+> [Street]\
+> [City], [Prov]\
+> [PostalCode]\
+> (here after referred to as **Client**)
 
 
 ## Definitions
@@ -33,7 +28,7 @@ https://mennotech.ca/support-definitions
 
 When these definitions are updated, all clients with a current support agreement will receive a notification.
 
-## Pro Plan includes the following
+## SMB Plus Plan includes the following
 
 ### Endpoint Protection, Licensing and Monitoring Agent
 
@@ -120,8 +115,46 @@ Most security incidents start with a phishing email. Make sure your staff are ad
 - **[[MSP Name]]** will purchase and license the KnowBe4 Security Awareness Training platform (platinum level) for every employee of the **Client**
 - **[[MSP Name]]** will report on staff training progress and phishing simulation results to the **Client**
 - The **Client** will give KnowBe4 permission to send Phishing test emails to their employees 
-- The **Client** will enroll and assign KnowBe4 Security Awareness Training modules to their employees at least once each year 
+- The **Client** will enroll and assign KnowBe4 Security Awareness Training modules to their employees at least once each year
 - The **Client** will enroll their employees in weekly or bi-weekly KnowBe4 Security Tips emails  
+
+## M365 Total Protection Enterprise Backup
+
+**[[MSP Name]]** will license, configure, manage and monitor the Hornet Security M365 Backup Service on behalf of the **Client**.
+
+The following features will be implemented for the **Client** by **[[MSP Name]]** as requested:
+
+- Hornet Security Spam & Malware protection
+- Hornet Security Email Encryption
+- Hornet Security Email Signatures & Disclaimers
+- Hornet Security Advanced Email Threat Protection
+- Hornet Security Email Archiving
+- Hornet Security Email Continuity
+- Hornet Security Backup & Recovery of M365 Mailboxes & Teams
+- Hornet Security Backup & Recovery of M365 OneDrive & SharePoint
+- Hornet Security Backup & Recovery of Endpoints
+
+## Strategic I.T. Planning 
+
+Unlock the potential of your technology investments to solve business problems 
+
+- **[[MSP Name]]** will meet regularly with the **Client** to discuss, plan and evaluate the **Client's** Information Technology needs and goals 
+- **[[MSP Name]]** will provide advice to the **Client** for how to leverage Information Technology for strategic business goals 
+- **[[MSP Name]]** will assist in developing an Information Technology roadmap outlining future technology investments and projects 
+
+## Service Level Agreement 
+
+**[[MSP Name]]** Support staff will provide the following level of technical support provided the request is received through the Helpdesk support channel as an email sent to **support@mennotech.ca**.  
+
+- Tickets that are marked "Urgent" will be responded to within 1 business hour
+- Tickets that are marked "High" will be responded to within 4 business hours
+- All tickets marked "Medium" and below will be responded to on a best effort basis 
+
+Note that any tickets that are sent to **support@mennotech.ca** will be marked "Medium" by default. In order to escalate the ticket, the end user must prefix the subject of the email with “URGENT” or “HIGH” to notify the technician of the severity of the incident.  
+
+If the response time fails to meet the above requirements, a discount will be applied at the end of the month in which the failure occurred. The discount will be calculated at $80 for each hour the targeted support commitment is missed. The maximum discount in a given month will not exceed 50% of the total invoice amount.  
+
+Mennotech reserves the right to charge $120 / hour for non-business day support. 
 
 ## Terms and Conditions
 
@@ -134,26 +167,24 @@ The **Client** agrees to the Privacy Policy set out by **[[MSP Name]]**. The cur
 
 ## Payment for Services Offered
 
-The **Client** will pay **[[MSP Name]]** $65 CAD per user, per month. The number of users will be determined by the number of users licensed in the **Client's** Microsoft 365 Tenant.
+The **Client** will pay **[[MSP Name]]** $85 CAD per user, per month. The number of users will be determined by the number of users licensed in the **Client's** Microsoft 365 Tenant.
 
 ## Signatures
 
-### Mennotech
+### [[MSP Name]]
 
-> **Name:**
->
-> **Title:**
->
-> **Date:**
->
-> **Signature:**
+| | |
+| --- | --- |
+| **Name** | [name] |
+| **Title** | [title] |
+| **Date** | [date] |
+| **Signature** | [signature] |
 
 ### Client
 
-> **Name:**
->
-> **Title:**
->
-> **Date:**
->
-> **Signature:**
+| | |
+| --- | --- |
+| **Name** | [name] |
+| **Title** | [title] |
+| **Date** | [date] |
+| **Signature** | [signature] |
