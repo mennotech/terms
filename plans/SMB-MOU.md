@@ -33,7 +33,7 @@ https://mennotech.ca/support-definitions
 
 When these definitions are updated, all clients with a current support agreement will receive a notification.
 
-## Pro Plan includes the following
+## SMB Plan includes the following
 
 ### Endpoint Protection, Licensing and Monitoring Agent
 
