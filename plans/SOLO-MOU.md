@@ -86,7 +86,7 @@ The **Client** agrees to the Privacy Policy set out by **[[MSP Name]]**. The cur
 
 ## Payment for Services Offered
 
-The **Client** will pay **[[MSP Name]]** $40 CAD per computer, per month. The number of computers will be determined by the number of computers the **Client** has active in the Endpoint Protection Management portal at the beginning of each monthly billing period.
+The **Client** will pay **[[MSP Name]]** **[[SOLO-PRICE]]** CAD per computer, per month. The number of computers will be determined by the number of computers the **Client** has active in the Endpoint Protection Management portal at the beginning of each monthly billing period.
 
 ## Signatures
 
