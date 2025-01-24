@@ -95,7 +95,7 @@ The **Client** agrees to the Privacy Policy set out by **[[MSP Name]]**. The cur
 
 ## Payment for Services Offered
 
-The **Client** will pay **[[MSP Name]]** $32 CAD per month plus $16 per month per Phone Extension. The number of Phone Extensions will be determined by the number of extensions configured in the VOIP Server at the beginning of each billing date.
+The **Client** will pay **[[MSP Name]]** $32 CAD per month plus $16 per month per Phone Extension (for the first 5 extensions). Additional extensions will be charged at $8 per Phone Extension. The number of Phone Extensions will be determined by the number of extensions configured in the VOIP Server at the beginning of each billing date.
 
 ## Payment for Installation
 
