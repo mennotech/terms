@@ -167,7 +167,7 @@ The **Client** agrees to the Privacy Policy set out by **[[MSP Name]]**. The cur
 
 ## Payment for Services Offered
 
-The **Client** will pay **[[MSP Name]]** $85 CAD per user, per month. The number of users will be determined by the number of users licensed in the **Client's** Microsoft 365 Tenant.
+The **Client** will pay **[[MSP Name]]** **[[SMB-PLUS-PRICE]]** CAD per user, per month. The number of users will be determined by the number of users licensed in the **Client's** Microsoft 365 Tenant.
 
 ## Signatures
 
