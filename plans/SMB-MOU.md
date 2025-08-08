@@ -134,7 +134,13 @@ The **Client** agrees to the Privacy Policy set out by **[[MSP Name]]**. The cur
 
 ## Payment for Services Offered
 
-The **Client** will pay **[[MSP Name]]** **[[SMB-PRICE]]** CAD per user, per month. The number of users will be determined by the number of users licensed in the **Client's** Microsoft 365 Tenant.
+### Standard Users
+
+The **Client** will pay **[[MSP Name]]** **[[SMB-PRICE]]** CAD per user, per month. The number of users will be determined by the number of users licensed in the **Client's** Microsoft 365 Tenant. 
+
+### Basic Users
+
+The **Client** will pay **[[MSP Name]]** **[[SMB-BASIC-PRICE]]** CAD per user, per month for users that are less than or equal to 50% employed or their main job function involves limited computer use. Basic users must be approved by **[MSP_Name]]** before adding to the subscription.  **[MSP_Name]]** reserves the right to deny classifying basic users for any reason.
 
 ## Signatures
 
