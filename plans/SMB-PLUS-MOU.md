@@ -1,3 +1,5 @@
+(Generate PDF version at https://md2pdf.netlify.app/)
+
 # Memorandum of Understanding
 
 Between
@@ -105,8 +107,10 @@ Our Microsoft Certified Professionals plan, configure, and manage your Server In
 
 ## Third-Party Software and Vendors
 
-- The **Client** will purchase and license all software and services that are configured on the server(s) and computers and for any network equipment, except what Mennotech has agreed in writing to purchase and provide 
-- Mennotech will work together with licensed third-party software and hardware vendors to resolve support incidents 
+- The **Client** will purchase and license all software and services that are configured on the server(s) and computers and for any network equipment, except what **[[MSP Name]]** has agreed in writing to purchase and provide 
+- **[[MSP Name]]** will work together with licensed third-party software and hardware vendors to resolve support incidents
+- **[[MSP Name]]** will inform the **Client** in writing if third-party software or hardware vendor support is due to expire, giving no less than 30 days notice
+- The **Client** will inform **[[MSP Name]]** in writing if they wish to proceed with unsupported software or hardware equipment, understanding that **[[MSP Name]]** will no longer be held accountable to support these platforms
 
 ## Security Awareness Training  
 

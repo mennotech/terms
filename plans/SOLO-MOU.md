@@ -1,3 +1,5 @@
+(Generate PDF version at https://md2pdf.netlify.app/)
+
 # Memorandum of Understanding
 
 Between
@@ -74,6 +76,13 @@ The **Client** will purchase and license all installed software and services, ex
 - **[[MSP Name]]** will assist in registering, configuring, managing and securing Internet Domain Names.
 - **[[MSP Name]]** will assist in registering, configuring, managing and securing Internet DNS services.
 - **[[MSP Name]]** will provide advice on selecting a website host.
+
+## Third-Party Software and Vendors
+
+- The **Client** will purchase and license all software and services that are configured on the server(s) and computers and for any network equipment, except what **[[MSP Name]]** has agreed in writing to purchase and provide 
+- **[[MSP Name]]** will work together with licensed third-party software and hardware vendors to resolve support incidents
+- **[[MSP Name]]** will inform the **Client** in writing if third-party software or hardware vendor support is due to expire, giving no less than 30 days notice
+- The **Client** will inform **[[MSP Name]]** in writing if they wish to proceed with unsupported software or hardware equipment, understanding that **[[MSP Name]]** will no longer be held accountable to support these platforms
 
 ## Terms and Conditions
 
